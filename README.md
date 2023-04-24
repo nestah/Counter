@@ -3,8 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
 ### `live site`
-Open [https://nestah.github.io/Counter/] to view
+Open [https://nestah.github.io/Counter/](https://nestah.github.io/Counter/) to view
 
 In the project directory, you can run:
 
